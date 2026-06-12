@@ -583,9 +583,10 @@ Built five years of practical electronics, computer hardware, troubleshooting, a
 
 <div align="center">
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Asadullah-dev-tech&theme=radical&no-frame=true&no-bg=true&margin-w=10&margin-h=10&row=2&column=4" alt="GitHub Trophies" />
-</a>
+<img src="https://img.shields.io/badge/Commits-Engineering%20Consistency-7C3AED?style=for-the-badge&logo=github&logoColor=white&labelColor=0B1020" />
+<img src="https://img.shields.io/badge/Repositories-Product%20Portfolio-6366F1?style=for-the-badge&logo=github&logoColor=white&labelColor=0B1020" />
+<img src="https://img.shields.io/badge/Open%20Source-Active%20Builder-8B5CF6?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=0B1020" />
+<img src="https://img.shields.io/badge/Profile-Premium%20Engineering-A855F7?style=for-the-badge&logo=githubsponsors&logoColor=white&labelColor=0B1020" />
 
 </div>
 
