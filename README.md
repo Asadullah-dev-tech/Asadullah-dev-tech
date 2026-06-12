@@ -1,15 +1,19 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:070A13,35:312E81,70:6D28D9,100:A855F7&height=240&section=header&text=ASADULLAH&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%20Engineer%20%7C%20Avionics%20%26%20Electronics%20Technician&descAlignY=56&descSize=17" />
+<h1>ASADULLAH</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=700&color=A855F7&center=true&vCenter=true&width=980&lines=Enterprise+Software+Engineering;AI+%2F+ML+Systems+%26+Automation;Full+Stack+Product+Engineering;Avionics+%26+Embedded+Systems;Premium+Engineering+Portfolio" alt="Typing SVG" />
+<h3>
+  Avionics & Electronics Technician · Software Developer · Embedded Systems Learner
+</h3>
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=700&color=A855F7&center=true&vCenter=true&width=900&lines=Avionics+%26+Electronics+Technician;PCB+Repair+%7C+RF+Systems+%7C+Drone+Engineering;Python+%7C+C%2B%2B+Qt+%7C+JavaScript;Arduino+%7C+ESP32+%7C+Embedded+Systems;Software+Developer+%26+Technical+Builder" alt="Typing SVG" />
 
-<img src="https://img.shields.io/badge/AMSC%20NASTP-Avionics%20Life%20Cycle%20Support-7C3AED?style=flat-square&labelColor=0B1020" alt="AMSC NASTP Badge" />
-<img src="https://img.shields.io/badge/PAC%20Kamra-JF--17%20Thunder%20Block%20III-6366F1?style=flat-square&labelColor=0B1020" alt="PAC Kamra Badge" />
-<img src="https://img.shields.io/badge/Computer%20Science-Software%20Engineering-8B5CF6?style=flat-square&labelColor=0B1020" alt="Computer Science Badge" />
-<img src="https://img.shields.io/badge/Location-Attock%2C%20Punjab%2C%20Pakistan-3B82F6?style=flat-square&labelColor=0B1020" alt="Location Badge" />
+<br/><br/>
+
+<img src="https://img.shields.io/badge/AMSC%20NASTP-Avionics%20Life%20Cycle%20Support-7C3AED?style=flat-square&labelColor=0B1020" alt="AMSC NASTP" />
+<img src="https://img.shields.io/badge/PAC%20Kamra-JF--17%20Thunder%20Block%20III-6366F1?style=flat-square&labelColor=0B1020" alt="PAC Kamra" />
+<img src="https://img.shields.io/badge/Computer%20Science-Science%20Group-8B5CF6?style=flat-square&labelColor=0B1020" alt="Computer Science" />
+<img src="https://img.shields.io/badge/Location-Attock%2C%20Punjab%2C%20Pakistan-3B82F6?style=flat-square&labelColor=0B1020" alt="Location" />
 
 <br/><br/>
 
@@ -38,21 +42,21 @@
 
 ## About
 
-I am **Asadullah**, a software-focused engineering professional working across **full stack development, AI-assisted product engineering, embedded systems, avionics electronics, automation, cybersecurity fundamentals, and technical documentation**.
+I am **Asadullah**, a technical builder from **Attock, Punjab, Pakistan**, working across **avionics electronics, PCB repair, RF systems, drone engineering, embedded systems, software development, graphic design, cybersecurity fundamentals, and technical documentation**.
 
-My background combines aerospace exposure from **PAC Kamra / AMSC NASTP**, avionics life-cycle support, PCB repair, RF cable manufacturing, embedded hardware development, and real-world software projects built with **Python, C++, Qt, JavaScript, HTML, CSS, Supabase, Vercel, Arduino, ESP32, and modern AI workflows**.
+My background includes hands-on training and project work connected with **AMSC NASTP, PAC Kamra, and JF-17 Thunder Block III exposure**, along with practical electronics repair, software projects, Arduino-based systems, C++/Qt desktop applications, browser-based JavaScript apps, and professional design/office work.
 
-I focus on building systems that are not only functional, but also **structured, scalable, secure, maintainable, and presentation-ready**. My engineering style connects software architecture with product thinking: clean data models, practical UX, reliable deployment, business impact, and strong documentation.
+I prefer building practical systems that are clear, documented, testable, and useful in real environments — from hardware prototypes to small business software and technical presentation projects.
 
 **Open To**
 
 | Role Type | Focus Area |
 |---|---|
-| Software Engineering | Full stack applications, dashboards, automation systems, internal tools |
-| AI Engineering | AI agents, LLM workflows, automation platforms, prompt systems |
-| Embedded / Avionics | Arduino, ESP32, electronics diagnostics, simulation systems |
-| Product Engineering | SaaS MVPs, ERP systems, business platforms, technical products |
-| Freelance / Contract | Web apps, management systems, technical documentation, UI systems |
+| Avionics / Electronics | PCB repair, RF cable work, diagnostics, wiring harnesses, technical support |
+| Embedded Systems | Arduino, ESP32, sensors, servos, displays, control logic, educational prototypes |
+| Software Development | Python, C++/Qt, HTML, CSS, JavaScript, small business applications |
+| Technical Documentation | Project reports, wiring guides, user manuals, schematics, presentation docs |
+| Graphic / Office Work | Brand identity, print design, MS Office documents, bilingual Urdu/English documents |
 
 ---
 
@@ -60,180 +64,69 @@ I focus on building systems that are not only functional, but also **structured,
 
 <div align="center">
 
-### Languages
+### Programming & Software
 
-<img src="https://skillicons.dev/icons?i=py,cpp,c,js,ts,html,css" alt="Languages" />
+<img src="https://img.shields.io/badge/Python-0B1020?style=for-the-badge&logo=python&logoColor=7C3AED" />
+<img src="https://img.shields.io/badge/C%2B%2B-0B1020?style=for-the-badge&logo=cplusplus&logoColor=8B5CF6" />
+<img src="https://img.shields.io/badge/Qt-0B1020?style=for-the-badge&logo=qt&logoColor=A855F7" />
+<img src="https://img.shields.io/badge/HTML5-0B1020?style=for-the-badge&logo=html5&logoColor=6366F1" />
+<img src="https://img.shields.io/badge/CSS3-0B1020?style=for-the-badge&logo=css3&logoColor=3B82F6" />
+<img src="https://img.shields.io/badge/JavaScript-0B1020?style=for-the-badge&logo=javascript&logoColor=C084FC" />
 
-### Frontend
+### Embedded, Avionics & Electronics
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,bootstrap,figma" alt="Frontend" />
+<img src="https://img.shields.io/badge/Arduino-0B1020?style=for-the-badge&logo=arduino&logoColor=7C3AED" />
+<img src="https://img.shields.io/badge/ESP32-0B1020?style=for-the-badge&logo=espressif&logoColor=8B5CF6" />
+<img src="https://img.shields.io/badge/PCB%20Repair-0B1020?style=for-the-badge&logo=electronics&logoColor=A855F7" />
+<img src="https://img.shields.io/badge/RF%20Systems-0B1020?style=for-the-badge&logo=radio&logoColor=6366F1" />
+<img src="https://img.shields.io/badge/KiCad-0B1020?style=for-the-badge&logo=kicad&logoColor=3B82F6" />
+<img src="https://img.shields.io/badge/EasyEDA-0B1020?style=for-the-badge&logoColor=C084FC" />
 
-### Backend & Databases
+### Tools, Office & Design
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,supabase,postgres,mongodb,firebase" alt="Backend and Databases" />
-
-### Cloud, DevOps & Tooling
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,linux,bash,vscode,arduino" alt="Cloud DevOps Tooling" />
+<img src="https://img.shields.io/badge/GitHub-0B1020?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Google%20Colab-0B1020?style=for-the-badge&logo=googlecolab&logoColor=7C3AED" />
+<img src="https://img.shields.io/badge/MS%20Office-0B1020?style=for-the-badge&logo=microsoftoffice&logoColor=8B5CF6" />
+<img src="https://img.shields.io/badge/Photoshop-0B1020?style=for-the-badge&logo=adobephotoshop&logoColor=A855F7" />
+<img src="https://img.shields.io/badge/Illustrator-0B1020?style=for-the-badge&logo=adobeillustrator&logoColor=6366F1" />
+<img src="https://img.shields.io/badge/CorelDRAW-0B1020?style=for-the-badge&logoColor=3B82F6" />
 
 </div>
 
 ---
 
-## AI / ML Expertise
+## AI / ML & Automation Exposure
 
-| Domain | Proficiency | Details |
+| Domain | Level | Details |
 |---|---:|---|
-| AI-Assisted Software Engineering | Advanced | Uses AI workflows to accelerate architecture, debugging, documentation, UI planning, and full stack delivery |
-| LLM Product Engineering | Advanced | Designs assistant-style systems, structured prompts, AI workspaces, automation flows, and context-aware tools |
-| AI Agents & Automation | Applied | Builds agent concepts for task execution, business automation, dashboards, server tools, and productivity systems |
-| Prompt Engineering | Advanced | Creates structured prompt systems for coding, documentation, research, workflows, and product generation |
-| Machine Learning Foundations | Intermediate | Covers supervised learning concepts, model workflow awareness, AI/ML basics, and practical integration patterns |
-| Computer Vision Concepts | Applied | Works with simulation, detection, and tactical visualization concepts for educational engineering systems |
-| Embedded Intelligence | Applied | Connects Arduino, ESP32, sensors, displays, RF modules, and control logic for interactive technical demos |
-| AI Product Documentation | Advanced | Produces PRDs, TRDs, app flows, implementation plans, backend schemas, and technical briefs |
+| AI-Assisted Development | Applied | Uses AI tools to accelerate software development, documentation, debugging, and project planning |
+| AI & Machine Learning | Learning / Certified Training | Completed Microsoft online AI & Machine Learning training |
+| Prompt Engineering | Applied | Creates structured prompts for coding, documentation, project planning, and technical explanation |
+| Simulation Projects | Applied | Built browser-based and embedded simulation concepts using JavaScript, Arduino, sensors, RF modules, and displays |
+| Embedded Automation | Applied | Works with Arduino/ESP32-style control logic, sensors, servos, failover concepts, and hardware demonstrations |
+| Cybersecurity Fundamentals | Learning / Certified Training | Basic cybersecurity and ethical hacking training with practical interest in defensive security |
 
 ---
 
 ## Featured Projects
 
 <details>
-<summary><b>GhostShield Enterprise Management System</b></summary>
-
-<br/>
-
-Enterprise-grade business management platform designed for clients, sales, payments, accounts, recovery workflows, staff roles, import systems, and operational dashboards.
-
-| Metric | Detail |
-|---|---|
-| Stack | React, JavaScript, Supabase, PostgreSQL, Vercel |
-| Scale | Multi-user business workflow with client records, payment tracking, salesman assignment, and imports |
-| Performance | Optimized relational data flow, indexed lookups, structured import batches, and dashboard-ready queries |
-| Security | Role-based access control, secured authentication, controlled database policies, and audit-friendly records |
-| Impact | Converts manual business operations into a centralized digital ERP-style platform |
-| Repository | [ghostshield-enterprise-management-system](https://github.com/ghostshieldaitech/ghostshield-enterprise-management-system) |
-
-This project represents a full product-engineering mindset: structured database design, real business workflows, secure access, clean UI flows, and operational reporting.
-
-</details>
-
-<details>
-<summary><b>Al-Sheikh Electronics ERP System</b></summary>
-
-<br/>
-
-Custom ERP and client management system for electronics installment operations, payment records, client lifecycle tracking, brand/category mapping, salesman distribution, and legacy data migration.
-
-| Metric | Detail |
-|---|---|
-| Stack | Supabase, PostgreSQL, SQL, React, JavaScript |
-| Scale | Large legacy customer migration with real client data normalization and controlled table imports |
-| Performance | Batch-safe SQL import strategy, deduplication checks, normalized client records, and recoverable migration flow |
-| Security | Database policy planning, protected table writes, UUID-based record structure, and controlled migration staging |
-| Impact | Moves old business software data into a modern Supabase-backed management platform |
-| Repository | [alsheikh-electronics-erp](https://github.com/ghostshieldaitech/alsheikh-electronics-erp) |
-
-Built as a practical business system focused on reliability, clean data migration, and long-term maintainability.
-
-</details>
-
-<details>
-<summary><b>GhostClaw AI Agent Platform</b></summary>
-
-<br/>
-
-AI agent platform concept focused on task automation, command workflows, structured memory, tool orchestration, prompt routing, and productivity acceleration.
-
-| Metric | Detail |
-|---|---|
-| Stack | Python, JavaScript, Node.js, Ollama API, LLM APIs, Docker |
-| Scale | Multi-agent workflow architecture for automation, research, execution, and assistant-style operations |
-| Performance | Modular prompt routing, reusable tools, context shaping, and lightweight deployment planning |
-| Security | Permission boundaries, controlled command execution, API key separation, and owner-approved operations |
-| Impact | Turns AI from a chat tool into a structured automation and execution layer |
-| Repository | [ghostclaw-ai-agent-platform](https://github.com/ghostshieldaitech/ghostclaw-ai-agent-platform) |
-
-Designed for advanced AI workflows where agents can plan, route tasks, assist with engineering delivery, and connect tools into structured workflows.
-
-</details>
-
-<details>
-<summary><b>GhostShield AI Workspace Suite</b></summary>
-
-<br/>
-
-Premium AI workspace concept covering local-first AI tools, cloud model routing, prompt systems, task boards, multi-provider orchestration, and productivity dashboards.
-
-| Metric | Detail |
-|---|---|
-| Stack | React, Node.js, Docker, Ollama, Supabase, Vercel |
-| Scale | Multi-workspace architecture for AI productivity, coding, documentation, automation, and research |
-| Performance | Provider abstraction, reusable contexts, modular screens, and lightweight cloud/local deployment options |
-| Security | Local-only modes, API key separation, private workspace logic, and controlled data handling |
-| Impact | Creates a professional AI command center for engineering, business, and automation work |
-| Repository | [ghostshield-ai-workspace-suite](https://github.com/ghostshieldaitech/ghostshield-ai-workspace-suite) |
-
-This suite is positioned as a FAANG-style AI productivity platform with clean UX, scalable architecture, and enterprise-ready thinking.
-
-</details>
-
-<details>
-<summary><b>FBW Project 11 — Fly-By-Wire Circuit Schematic</b></summary>
-
-<br/>
-
-Complete educational fly-by-wire demonstration system using dual Arduino control units, joystick input, OLED feedback, I2C communication, envelope protection logic, and servo-based actuation.
-
-| Metric | Detail |
-|---|---|
-| Stack | Arduino UNO, C/C++, I2C, OLED SSD1306, PCF8574, SG90 Servos |
-| Scale | Two-board avionics-style control system with input unit, bus link, and actuation unit |
-| Performance | 50Hz control loop, 100kHz I2C bus, servo response mapping, and envelope limit simulation |
-| Security | Educational closed-loop prototype with controlled power, common ground validation, and hardware safety reminders |
-| Impact | Demonstrates aircraft FBW concepts including PIC/FCAU roles, control limits, and actuator response |
-| Repository | [fbw-project-11-circuit-schematic](https://github.com/ghostshieldaitech/fbw-project-11-circuit-schematic) |
-
-This project translates real aircraft control principles into a classroom-safe embedded simulation using structured wiring, pin maps, signal flow, and demonstration steps.
-
-</details>
-
-<details>
-<summary><b>Iron Dome Defence System — Educational Simulator</b></summary>
-
-<br/>
-
-Non-functional educational simulator demonstrating target detection logic, threat classification, tactical display concepts, RF communication, and servo-based visual interception representation.
-
-| Metric | Detail |
-|---|---|
-| Stack | Arduino Mega, Arduino Nano, NRF24L01, HC-SR04, TFT ILI9341, Servo Control |
-| Scale | Two-unit architecture with threat transmitter and battle-management simulation unit |
-| Performance | RF packet updates, sensor-array simulation, tactical display loop, and decision-state visualization |
-| Security | No explosive payloads, no real weapon function, hobby electronics only, educational simulation scope |
-| Impact | Demonstrates detection, assessment, decision, and visual response logic for avionics learning |
-| Repository | [iron-dome-educational-simulator](https://github.com/ghostshieldaitech/iron-dome-educational-simulator) |
-
-The project is framed strictly as a non-weapon educational engineering demonstration focused on systems thinking, RF links, sensor concepts, display feedback, and decision logic.
-
-</details>
-
-<details>
 <summary><b>Custom Drone — Design, Integration & Avionics Calibration</b></summary>
 
 <br/>
 
-Capstone drone project covering custom frame design, electronics integration, flight controller setup, wiring harness work, calibration, failsafe setup, and pre-flight testing.
+Capstone drone project covering custom frame design, electronics integration, flight-controller setup, wiring harness work, calibration, failsafe setup, and pre-flight testing.
 
 | Metric | Detail |
 |---|---|
 | Stack | Flight Controller, ESCs, Brushless Motors, PDB, 4S Li-Po, RC Receiver, Telemetry |
-| Scale | End-to-end multirotor build from frame to flight-ready system |
-| Performance | Motor direction checks, ESC endpoint setup, IMU/compass calibration, radio binding, and hover testing |
-| Security | Pre-flight inspection, failsafe setup, cable routing discipline, and power-system validation |
-| Impact | Demonstrates full drone engineering workflow from design to controlled test operation |
-| Repository | [custom-drone-avionics-calibration](https://github.com/ghostshieldaitech/custom-drone-avionics-calibration) |
+| Type | AMSC NASTP Capstone Project |
+| Hardware Scope | Frame fabrication, wiring harness, power leads, signal connectors, routing, and integration |
+| Testing | IMU/compass calibration, ESC endpoints, radio binding, failsafe setup, motor checks, hover testing |
+| Impact | Demonstrates practical drone engineering from design to flight-ready validation |
+| Repository / Status | Project documentation pending public upload under [ghostshieldaitech](https://github.com/ghostshieldaitech) |
 
-This project highlights practical avionics integration, embedded hardware handling, and disciplined technical documentation.
+This project shows hands-on avionics integration, disciplined wiring, calibration workflow, and safety-aware test preparation.
 
 </details>
 
@@ -242,18 +135,18 @@ This project highlights practical avionics integration, embedded hardware handli
 
 <br/>
 
-Dual-Arduino aviation-style navigation light controller with heartbeat monitoring, standby takeover, fault detection, relay/transistor logic, PCB assembly, voltage regulation, and redundancy validation.
+Dual-Arduino navigation light system with primary/standby logic, heartbeat monitoring, automatic takeover, and fault-scenario testing.
 
 | Metric | Detail |
 |---|---|
-| Stack | Arduino, LEDs, Relay Logic, Transistor Switching, Voltage Regulation |
-| Scale | Primary and standby controller design for aviation/unmanned platform demonstration |
-| Performance | Heartbeat monitoring, standby takeover, timed LED intervals, and fault scenario response |
-| Security | Redundancy-first control logic, safe switching behavior, and fault-mode validation |
-| Impact | Demonstrates reliability engineering and failover principles in embedded systems |
-| Repository | [arduino-navigation-light-redundancy](https://github.com/ghostshieldaitech/arduino-navigation-light-redundancy) |
+| Stack | Arduino, LEDs, Relay/Transistor Logic, Voltage Regulation |
+| Type | AMSC NASTP Course Project |
+| Hardware Scope | Primary Arduino, standby Arduino, PCB assembly, voltage regulation, and failover logic |
+| Reliability Concept | Standby controller monitors heartbeat and takes control after primary failure |
+| Impact | Demonstrates redundancy and fail-safe thinking for aviation/unmanned platform concepts |
+| Repository / Status | Project documentation pending public upload under [ghostshieldaitech](https://github.com/ghostshieldaitech) |
 
-Built to show how redundancy and automatic fallback can improve reliability in safety-aware electronics systems.
+Built to show how redundancy, monitoring, and automatic fallback can improve system reliability.
 
 </details>
 
@@ -262,18 +155,58 @@ Built to show how redundancy and automatic fallback can improve reliability in s
 
 <br/>
 
-Foam-board RC aircraft project covering airframe build, motor/ESC integration, servo setup, control surface tuning, center-of-gravity balancing, ground testing, and maiden flight preparation.
+Foam-board RC aircraft project covering airframe construction, motor/ESC integration, servo setup, linkage tuning, center-of-gravity balancing, ground testing, and maiden flight.
 
 | Metric | Detail |
 |---|---|
-| Stack | Foam Airframe, Brushless Motor, ESC, Li-Po Battery, Servos, 2.4GHz TX/RX |
-| Scale | Complete RC aircraft build from material layout to maiden flight preparation |
-| Performance | Control-surface setup, push-rod tuning, wing reinforcement, and CG balancing |
-| Security | Ground testing, signal checks, power verification, and structured test readiness |
-| Impact | Builds practical understanding of aerodynamics, aircraft control, and electronics integration |
-| Repository | [rc-airplane-build-flight-test](https://github.com/ghostshieldaitech/rc-airplane-build-flight-test) |
+| Stack | Foam Board, Brushless Motor, ESC, Li-Po Battery, Servos, 2.4GHz TX/RX |
+| Type | AMSC NASTP Course Project |
+| Build Scope | Airframe, elevons, push-rods, wing reinforcement, electronics integration |
+| Testing | CG balancing, ground testing, control surface checks, maiden flight |
+| Impact | Builds practical understanding of aircraft control surfaces, electronics, and flight-readiness checks |
+| Repository / Status | Project documentation pending public upload under [ghostshieldaitech](https://github.com/ghostshieldaitech) |
 
-This project connects mechanical build quality with electronics reliability and flight-control discipline.
+This project connects mechanical build quality with electronics reliability and aircraft control principles.
+
+</details>
+
+<details>
+<summary><b>FBW Project 11 — Fly-By-Wire Circuit Schematic</b></summary>
+
+<br/>
+
+Educational fly-by-wire demonstration system using dual Arduino control units, joystick input, OLED display feedback, I2C communication, envelope protection logic, and servo-based actuation.
+
+| Metric | Detail |
+|---|---|
+| Stack | Arduino UNO, C/C++, I2C, OLED SSD1306, PCF8574, SG90 Servos |
+| Type | Avionics educational demonstration |
+| Architecture | Input unit, I2C bus link, and actuation unit |
+| Demonstrated Concepts | Control limits, servo response, coordinated turn logic, simulated avionics data bus |
+| Safety / Reliability | Common ground validation, 4.7kΩ pull-up requirements, controlled power reminders |
+| Repository / Status | Project documentation pending public upload under [ghostshieldaitech](https://github.com/ghostshieldaitech) |
+
+This project translates aircraft control-system concepts into a classroom-safe embedded demonstration.
+
+</details>
+
+<details>
+<summary><b>Iron Dome Defence System — Educational Simulator</b></summary>
+
+<br/>
+
+Non-functional educational simulator demonstrating radar-style detection principles, threat assessment logic, RF communication, tactical display concepts, and servo-based visual response.
+
+| Metric | Detail |
+|---|---|
+| Stack | Arduino Mega, Arduino Nano, NRF24L01, HC-SR04, TFT ILI9341, Servo Control |
+| Type | Educational simulator |
+| Architecture | Unit A threat transmitter + Unit B battle-management simulator |
+| Demonstrated Concepts | Target detection, RF data link, threat classification, tactical display, decision logic |
+| Safety Scope | Hobby electronics only; no explosive payloads and no real weapon functionality |
+| Repository / Status | Project documentation pending public upload under [ghostshieldaitech](https://github.com/ghostshieldaitech) |
+
+This project is presented as an educational electronics and systems-thinking demonstration only.
 
 </details>
 
@@ -282,18 +215,18 @@ This project connects mechanical build quality with electronics reliability and 
 
 <br/>
 
-Concept engineering project focused on electronics architecture, PCB planning, wiring harness documentation, AI-assisted simulation planning, and control-system design.
+Aerospace concept engineering project focused on electronics architecture, schematics, PCB layouts, BOM planning, wiring harness documentation, and simulation workflow planning.
 
 | Metric | Detail |
 |---|---|
-| Stack | KiCad, EasyEDA, ESP32, Jetson Nano Concept, Blender, Unity |
-| Scale | System architecture concept with schematics, BOM, wiring, PCB layout, and simulation workflow |
-| Performance | Modular control planning, sensor-processing concept, and simulation-ready documentation |
-| Security | Documentation-only concept design, controlled educational scope, and no operational weapon delivery |
-| Impact | Demonstrates aerospace systems design, AI concept planning, and hardware architecture thinking |
-| Repository | [ai-anti-jamming-systems-design](https://github.com/ghostshieldaitech/ai-anti-jamming-systems-design) |
+| Stack | KiCad, EasyEDA, ESP32 Concept, Jetson Nano Concept, Blender / Unity Planning |
+| Type | Aerospace concept engineering project |
+| Scope | Schematics, PCB layouts, BOM, wiring harness, and technical documentation |
+| AI Scope | Planned AI + controller architecture and 3D simulation workflow |
+| Impact | Demonstrates electronics documentation, system architecture, and concept-level design planning |
+| Repository / Status | Project documentation pending public upload under [ghostshieldaitech](https://github.com/ghostshieldaitech) |
 
-Positioned as a technical concept portfolio project showing systems design, electronics documentation, and simulation planning.
+This is listed as a concept/design documentation project, not as a completed operational system.
 
 </details>
 
@@ -302,18 +235,17 @@ Positioned as a technical concept portfolio project showing systems design, elec
 
 <br/>
 
-Browser-based simulation using canvas rendering, joystick/WASD control, HUD overlays, multi-target tracking, AI flare behavior, ECM concepts, and sound feedback.
+Browser-based simulation using HTML5 Canvas, CSS3, and JavaScript with joystick/WASD controls, HUD, AI flares, ECM concepts, target tracking, and sound design.
 
 | Metric | Detail |
 |---|---|
 | Stack | HTML5 Canvas, CSS3, JavaScript |
-| Scale | Interactive browser simulation with real-time controls and multiple visual systems |
-| Performance | Canvas loop rendering, input handling, targeting logic, and responsive HUD updates |
-| Security | Browser-only educational simulator with no real-world control system integration |
-| Impact | Demonstrates simulation UI, game-like physics logic, and interactive engineering visualization |
-| Repository | [advanced-missile-simulator-web](https://github.com/ghostshieldaitech/advanced-missile-simulator-web) |
+| Type | Personal web simulation project |
+| Frontend Scope | Real-time controls, canvas rendering, HUD, audio, and target logic |
+| Impact | Demonstrates JavaScript interaction, simulation UI, and browser-based engineering visualization |
+| Repository / Status | Project documentation pending public upload under [ghostshieldaitech](https://github.com/ghostshieldaitech) |
 
-This project shows strong frontend logic, interactive design, and simulation-oriented user experience.
+This project shows practical frontend logic and interactive simulation design.
 
 </details>
 
@@ -322,38 +254,17 @@ This project shows strong frontend logic, interactive design, and simulation-ori
 
 <br/>
 
-Bilingual Urdu/English billing system with product database, invoice workflow, compiled desktop version, browser version, and user documentation.
+Client project for bilingual Urdu/English invoicing with product database, billing workflow, compiled executable, browser version, and user manual.
 
 | Metric | Detail |
 |---|---|
 | Stack | C++, Qt, HTML, CSS, JavaScript |
-| Scale | Client-ready billing workflow with products, invoices, records, and user-facing screens |
-| Performance | Desktop-native execution, structured forms, clean invoice generation, and lightweight web version |
-| Security | Local-first data handling, controlled record entry, and business-focused usage boundaries |
-| Impact | Helps small businesses digitize billing, receipts, and customer transaction workflows |
-| Repository | [billing-management-system-qt-web](https://github.com/ghostshieldaitech/billing-management-system-qt-web) |
+| Type | Client software project |
+| Scope | Product database, invoice workflow, compiled desktop version, web version, and documentation |
+| Impact | Helps small business billing become more structured and professional |
+| Repository / Status | Private client project / documentation pending |
 
-Built with practical client needs in mind: speed, simplicity, bilingual usability, and easy daily operation.
-
-</details>
-
-<details>
-<summary><b>Shaheen Photo Studio Invoice & Customer Receipt System</b></summary>
-
-<br/>
-
-Billing and receipt platform designed for photo studio workflows, customer records, service charges, invoice generation, and business documentation.
-
-| Metric | Detail |
-|---|---|
-| Stack | HTML, CSS, JavaScript, C++/Qt Concepts |
-| Scale | Small-business billing workflow for photo studio operations |
-| Performance | Fast form-based workflow, structured receipt output, and simplified customer handling |
-| Security | Local/business-controlled records and clear billing documentation |
-| Impact | Improves billing professionalism, customer communication, and record consistency |
-| Repository | [shaheen-photo-studio-invoice-system](https://github.com/ghostshieldaitech/shaheen-photo-studio-invoice-system) |
-
-Designed as a practical product for real shop-level operations where speed and presentation matter.
+Built with practical client needs in mind: daily usability, bilingual workflow, and clear billing records.
 
 </details>
 
@@ -362,18 +273,17 @@ Designed as a practical product for real shop-level operations where speed and p
 
 <br/>
 
-Interactive quiz app with 100 MCQs, dark mode UI, browser-based scoring, clean navigation, and result tracking.
+Interactive browser-based quiz application with 100 MCQs, dark mode UI, score tracking, and simple user flow.
 
 | Metric | Detail |
 |---|---|
 | Stack | HTML, CSS, JavaScript |
-| Scale | 100-question assessment flow with score handling |
-| Performance | Lightweight browser execution, simple state management, and responsive layout |
-| Security | Client-side educational app with no sensitive backend dependency |
-| Impact | Demonstrates frontend state logic, UX flow, and quiz product design |
-| Repository | [iq-quiz-100-question-app](https://github.com/ghostshieldaitech/iq-quiz-100-question-app) |
+| Type | Personal browser app |
+| Scope | MCQs, UI screens, dark mode interface, and browser-based result tracking |
+| Impact | Demonstrates frontend fundamentals, state logic, and quiz-product flow |
+| Repository / Status | Project documentation pending public upload under [ghostshieldaitech](https://github.com/ghostshieldaitech) |
 
-This project highlights clean frontend fundamentals, structured content presentation, and interactive UI design.
+A lightweight frontend project focused on structure, usability, and clean scoring logic.
 
 </details>
 
@@ -382,38 +292,17 @@ This project highlights clean frontend fundamentals, structured content presenta
 
 <br/>
 
-Server management concept integrating cloud-hosted game server operations, web dashboard, player monitoring, console access concept, backups, and automation workflows.
+Personal project concept using Google Colab, Python, and web dashboard ideas for Minecraft server storage, monitoring, and console access.
 
 | Metric | Detail |
 |---|---|
-| Stack | Python, Google Colab, Web UI, JavaScript, Server Automation |
-| Scale | Server operations dashboard concept for monitoring, commands, and persistence |
-| Performance | Lightweight control flow, cloud storage planning, and dashboard-driven server management |
-| Security | Controlled console access planning, admin-only workflows, and backup-aware operations |
-| Impact | Converts manual server management into a dashboard-driven operations experience |
-| Repository | [minecraft-server-web-control-dashboard](https://github.com/ghostshieldaitech/minecraft-server-web-control-dashboard) |
+| Stack | Google Colab, Python, Web Dashboard Concepts |
+| Type | Personal project |
+| Scope | Drive storage, server monitoring, dashboard planning, and console access concept |
+| Impact | Explores cloud-based server management and dashboard-driven operations |
+| Repository / Status | Project documentation pending public upload under [ghostshieldaitech](https://github.com/ghostshieldaitech) |
 
-Built around real operational needs: server control, monitoring, automation, backups, and better admin UX.
-
-</details>
-
-<details>
-<summary><b>Docker-Based Multi-Provider AI Agent System</b></summary>
-
-<br/>
-
-Containerized AI infrastructure concept supporting multiple model providers, local/cloud routing, agent services, environment isolation, and reproducible deployment.
-
-| Metric | Detail |
-|---|---|
-| Stack | Docker, Python, Node.js, Ollama, LLM APIs, Linux |
-| Scale | Multi-service AI system with provider abstraction and isolated runtime environments |
-| Performance | Containerized services, modular providers, and clean deployment boundaries |
-| Security | Environment-based secrets, isolated services, controlled tool access, and local-first option |
-| Impact | Enables reliable AI infrastructure for development, automation, and experimentation |
-| Repository | [docker-multi-provider-ai-agent-system](https://github.com/ghostshieldaitech/docker-multi-provider-ai-agent-system) |
-
-This project demonstrates modern AI infrastructure thinking with reproducibility, scalability, and developer control.
+This project focuses on learning cloud-based workflows, automation, and server control concepts.
 
 </details>
 
@@ -425,14 +314,15 @@ This project demonstrates modern AI infrastructure thinking with reproducibility
 
 `Jan 2025 - Mar 2026`
 
-Completed avionics life cycle support and PCB repair training in a professional aerospace environment with exposure to diagnostics, RF cable work, rework stations, inspection routines, and technical documentation.
+Completed avionics life cycle support and PCB repair training in a professional aerospace training environment.
 
 **Scope of Work**
 
+- Completed Avionics Life Cycle Support & PCB Repair programme at PAC Kamra.
 - Performed component-level PCB diagnosis, SMD/through-hole soldering, desoldering, and board restoration.
-- Manufactured RF cables with SMA, BNC, and N-type connector fitting, crimp termination, and continuity checks.
-- Used oscilloscopes, DMMs, signal generators, bench power supplies, and SMD rework stations.
-- Followed ESD-safe handling, aerospace inspection checklists, calibration logs, and documentation discipline.
+- Manufactured RF cables with crimp termination, SMA/BNC/N-type connector fitting, impedance checks, and continuity checks.
+- Used oscilloscopes, DMMs, signal generators, bench supplies, and SMD rework stations.
+- Applied ESD-safe handling, aerospace inspection checklists, calibration logs, and technical documentation.
 
 **Skills:** `Avionics` `PCB Repair` `RF Systems` `Diagnostics` `SMD Rework` `Technical Documentation`
 
@@ -440,27 +330,29 @@ Completed avionics life cycle support and PCB repair training in a professional 
 
 `2022`
 
-Worked in an aerospace apprenticeship environment with exposure to aircraft assembly, MRO processes, avionics bay layout, wiring loom routing, control systems, and maintenance documentation.
+Aerospace apprenticeship exposure connected with JF-17 Thunder Block III assembly, maintenance, MRO concepts, and aircraft systems.
 
 **Scope of Work**
 
-- Assisted with aircraft assembly and maintenance exposure on JF-17 Thunder Block III.
-- Studied flight control mechanisms, hydraulics, control linkages, LRU concepts, and avionics layouts.
-- Developed strong safety protocol awareness and zero-defect aerospace work discipline.
+- Assisted with aircraft assembly and maintenance exposure.
+- Studied FCM, hydraulics, control linkages, LRU concepts, avionics bay layout, and wiring loom routing.
+- Learned aerospace maintenance documentation and safety protocol discipline.
+- Developed a zero-defect aerospace work mindset.
 
-**Skills:** `Aircraft Systems` `Avionics Bay Layout` `Wiring Looms` `MRO Exposure` `Safety Protocols`
+**Skills:** `Aircraft Systems` `Avionics Layout` `Wiring Looms` `MRO Exposure` `Safety Protocols`
 
 ### Freelance Graphic Designer & Office Professional · Self-Employed
 
 `2024 - Present`
 
-Designed brand identity assets, print materials, bilingual documents, business presentations, and office-ready professional documents.
+Freelance design and office work focused on branding, print design, bilingual documents, and professional business materials.
 
 **Scope of Work**
 
-- Designed logos, brand kits, visiting cards, posters, banners, certificates, brochures, and pitch decks.
-- Created Urdu/English professional documents using InPage, Word, CorelDRAW, Illustrator, and InDesign.
-- Managed invoice tracking, proposal formatting, and branded business documentation.
+- Designed logos, brand identity kits, color palettes, typography systems, and usage guidelines.
+- Created visiting cards, posters, brochures, banners, certificates, and pitch decks.
+- Prepared bilingual Urdu/English documents using InPage and Microsoft Word.
+- Worked with Microsoft Word, Excel, PowerPoint, Photoshop, Illustrator, CorelDRAW, and InDesign.
 
 **Skills:** `Photoshop` `Illustrator` `CorelDRAW` `InPage` `MS Office` `Brand Identity`
 
@@ -468,13 +360,13 @@ Designed brand identity assets, print materials, bilingual documents, business p
 
 `2023 - 4 Months`
 
-Handled studio operations, photo editing, print production, customer service, order records, and billing workflows.
+Worked in studio photography, photo editing, print production, customer handling, order management, and billing records.
 
 **Scope of Work**
 
-- Edited professional photos using Photoshop and CorelDRAW.
-- Managed customer orders, print production, billing records, and studio administration.
-- Supported daily business documentation using MS Office tools.
+- Edited photos using Photoshop and CorelDRAW.
+- Supported print production and customer relations.
+- Managed orders and billing records using MS Office tools.
 
 **Skills:** `Photo Editing` `Customer Handling` `Print Production` `Billing Records`
 
@@ -482,13 +374,13 @@ Handled studio operations, photo editing, print production, customer service, or
 
 `2018 - 2023`
 
-Built five years of practical electronics, computer hardware, troubleshooting, and repair experience.
+Five years of practical computer hardware, repair, troubleshooting, and electronics fault-diagnosis experience.
 
 **Scope of Work**
 
 - Assembled computer systems and performed hardware/software troubleshooting.
-- Diagnosed component-level issues including MOSFETs, capacitors, ICs, traces, and power faults.
-- Supported customer devices, repair workflows, and practical electronics problem-solving.
+- Diagnosed faults involving MOSFETs, capacitors, ICs, broken PCB traces, and power circuits.
+- Supported customer repair workflows and practical hardware problem solving.
 
 **Skills:** `Hardware Repair` `Electronics Diagnostics` `Computer Assembly` `Fault Isolation`
 
@@ -500,64 +392,56 @@ Built five years of practical electronics, computer hardware, troubleshooting, a
 
 | Recognition | Details |
 |---|---|
-| Avionics Life Cycle Support & PCB Repair | Completed professional aerospace-oriented training at AMSC NASTP, PAC Kamra |
-| JF-17 Thunder Block III Apprenticeship | Gained aircraft assembly, MRO, avionics layout, and safety protocol exposure |
-| Custom Drone Capstone | Designed, integrated, calibrated, and documented a multirotor drone system |
+| Avionics Life Cycle Support & PCB Repair | Completed professional avionics/PCB repair training at AMSC NASTP, PAC Kamra |
+| JF-17 Thunder Block III Apprenticeship | Gained aircraft assembly, MRO, avionics layout, wiring, and safety protocol exposure |
+| Custom Drone Capstone | Designed, integrated, calibrated, tested, and documented a multirotor drone system |
 | Dual-Arduino Redundancy Project | Built automatic standby takeover logic for navigation light control |
-| FBW Educational System | Designed a dual-Arduino fly-by-wire demonstration with I2C bus and servo actuation |
-| AI / Software Portfolio | Built multiple AI, ERP, billing, simulation, automation, and dashboard projects |
-| Technical + Creative Hybrid | Combines software engineering, electronics, avionics, cybersecurity, and design |
+| RC Aircraft Project | Built and tested foam-board RC aircraft with motor, ESC, Li-Po, servos, and TX/RX |
+| Software Projects | Built C++/Qt, Python, HTML/CSS/JavaScript, and browser-based software projects |
+| Technical + Creative Hybrid | Combines avionics, electronics, software, office work, graphic design, and cybersecurity learning |
 
 </div>
 
 ---
 
-## Certifications
+## Certifications & Training
 
-### AWS
+### Aerospace / Avionics
 
-<img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner%20Learning%20Track-7C3AED?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=0B1020" alt="AWS Cloud Practitioner" />
-<img src="https://img.shields.io/badge/AWS-Cloud%20Architecture%20Foundations-6366F1?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=0B1020" alt="AWS Cloud Architecture" />
+<img src="https://img.shields.io/badge/AMSC%20NASTP-Avionics%20Life%20Cycle%20Support%20%26%20PCB%20Repair-7C3AED?style=for-the-badge&labelColor=0B1020" alt="AMSC NASTP" />
+<img src="https://img.shields.io/badge/PAC%20Kamra-JF--17%20Thunder%20Block%20III%20Apprenticeship-6366F1?style=for-the-badge&labelColor=0B1020" alt="JF17 Apprenticeship" />
 
-### Oracle
+### Design
 
-<img src="https://img.shields.io/badge/Oracle-Database%20Foundations-8B5CF6?style=for-the-badge&logo=oracle&logoColor=white&labelColor=0B1020" alt="Oracle Database Foundations" />
-<img src="https://img.shields.io/badge/Oracle-Cloud%20Foundations-A855F7?style=for-the-badge&logo=oracle&logoColor=white&labelColor=0B1020" alt="Oracle Cloud Foundations" />
+<img src="https://img.shields.io/badge/NAVTTC%20%26%20NUTECH-Graphic%20Designing%20Certificate-8B5CF6?style=for-the-badge&labelColor=0B1020" alt="Graphic Designing" />
 
-### NPTEL
+### Cybersecurity & AI
 
-<img src="https://img.shields.io/badge/NPTEL-Programming%20%26%20Problem%20Solving-6366F1?style=for-the-badge&labelColor=0B1020" alt="NPTEL Programming" />
-<img src="https://img.shields.io/badge/NPTEL-Data%20Structures%20Foundations-7C3AED?style=for-the-badge&labelColor=0B1020" alt="NPTEL Data Structures" />
-
-### Cisco
-
-<img src="https://img.shields.io/badge/Cisco-Networking%20Foundations-3B82F6?style=for-the-badge&logo=cisco&logoColor=white&labelColor=0B1020" alt="Cisco Networking" />
-<img src="https://img.shields.io/badge/Cisco-Cybersecurity%20Foundations-8B5CF6?style=for-the-badge&logo=cisco&logoColor=white&labelColor=0B1020" alt="Cisco Cybersecurity" />
-
-### Additional Training
-
-<img src="https://img.shields.io/badge/Microsoft-AI%20%26%20Machine%20Learning-6366F1?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=0B1020" alt="Microsoft AI ML" />
-<img src="https://img.shields.io/badge/Microsoft-Basic%20Cybersecurity%20%26%20Ethical%20Hacking-7C3AED?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=0B1020" alt="Microsoft Cybersecurity" />
 <img src="https://img.shields.io/badge/Udemy-Cyber%20Security%20%26%20Ethical%20Hacking-A855F7?style=for-the-badge&logo=udemy&logoColor=white&labelColor=0B1020" alt="Udemy Cybersecurity" />
-<img src="https://img.shields.io/badge/NAVTTC%20%26%20NUTECH-Graphic%20Designing-3B82F6?style=for-the-badge&labelColor=0B1020" alt="Graphic Designing" />
+<img src="https://img.shields.io/badge/Microsoft-Basic%20Cybersecurity%20%26%20Ethical%20Hacking-6366F1?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=0B1020" alt="Microsoft Cybersecurity" />
+<img src="https://img.shields.io/badge/Microsoft-AI%20%26%20Machine%20Learning-7C3AED?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=0B1020" alt="Microsoft AI ML" />
+
+### Education
+
+<img src="https://img.shields.io/badge/Matriculation-Computer%20Science%20%28Science%20Group%29-3B82F6?style=for-the-badge&labelColor=0B1020" alt="Matric Computer Science" />
 
 ---
 
-## Coding Profiles
+## Professional Profiles
 
 <div align="center">
 
-<a href="https://leetcode.com/u/Asadullah-dev-tech/">
-  <img src="https://img.shields.io/badge/LeetCode-Asadullah--dev--tech-7C3AED?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0B1020" alt="LeetCode" />
+<a href="https://github.com/Asadullah-dev-tech">
+  <img src="https://img.shields.io/badge/Main%20GitHub-Asadullah--dev--tech-7C3AED?style=for-the-badge&logo=github&logoColor=white&labelColor=0B1020" alt="Main GitHub" />
 </a>
-<a href="https://www.geeksforgeeks.org/user/asadullahdevtech/">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-Asadullah-6366F1?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=0B1020" alt="GeeksforGeeks" />
+<a href="https://github.com/ghostshieldaitech">
+  <img src="https://img.shields.io/badge/Project%20GitHub-ghostshieldaitech-6366F1?style=for-the-badge&logo=github&logoColor=white&labelColor=0B1020" alt="Project GitHub" />
 </a>
-<a href="https://www.hackerrank.com/profile/Asadullah-dev-tech">
-  <img src="https://img.shields.io/badge/HackerRank-Asadullah-8B5CF6?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=0B1020" alt="HackerRank" />
+<a href="https://ghostshield-ai-technologies.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-GhostShield%20AI%20Technologies-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0B1020" alt="Portfolio" />
 </a>
-<a href="https://www.codechef.com/users/asadullahdevtech">
-  <img src="https://img.shields.io/badge/CodeChef-Asadullah-A855F7?style=for-the-badge&logo=codechef&logoColor=white&labelColor=0B1020" alt="CodeChef" />
+<a href="mailto:work.venomvincint@gmail.com">
+  <img src="https://img.shields.io/badge/Email-work.venomvincint%40gmail.com-A855F7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B1020" alt="Email" />
 </a>
 
 </div>
@@ -573,20 +457,20 @@ Built five years of practical electronics, computer hardware, troubleshooting, a
 
 <br/>
 
-<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asadullah-dev-tech&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9&langs_count=10" alt="Top Languages" />
+<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asadullah-dev-tech&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
 
 </div>
 
 ---
 
-## GitHub Trophies
+## Engineering Highlights
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Commits-Engineering%20Consistency-7C3AED?style=for-the-badge&logo=github&logoColor=white&labelColor=0B1020" />
-<img src="https://img.shields.io/badge/Repositories-Product%20Portfolio-6366F1?style=for-the-badge&logo=github&logoColor=white&labelColor=0B1020" />
-<img src="https://img.shields.io/badge/Open%20Source-Active%20Builder-8B5CF6?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=0B1020" />
-<img src="https://img.shields.io/badge/Profile-Premium%20Engineering-A855F7?style=for-the-badge&logo=githubsponsors&logoColor=white&labelColor=0B1020" />
+<img src="https://img.shields.io/badge/Avionics-PCB%20Repair%20%7C%20RF%20Systems-7C3AED?style=for-the-badge&labelColor=0B1020" alt="Avionics Highlight" />
+<img src="https://img.shields.io/badge/Embedded-Arduino%20%7C%20ESP32%20%7C%20Sensors-6366F1?style=for-the-badge&labelColor=0B1020" alt="Embedded Highlight" />
+<img src="https://img.shields.io/badge/Software-Python%20%7C%20C%2B%2B%20Qt%20%7C%20JavaScript-8B5CF6?style=for-the-badge&labelColor=0B1020" alt="Software Highlight" />
+<img src="https://img.shields.io/badge/Documentation-Schematics%20%7C%20Reports%20%7C%20Manuals-A855F7?style=for-the-badge&labelColor=0B1020" alt="Documentation Highlight" />
 
 </div>
 
@@ -606,15 +490,11 @@ Built five years of practical electronics, computer hardware, troubleshooting, a
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Asadullah-dev-tech/Asadullah-dev-tech/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Asadullah-dev-tech/Asadullah-dev-tech/output/github-contribution-grid-snake.svg" />
-  <img width="100%" alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/Asadullah-dev-tech/Asadullah-dev-tech/output/github-contribution-grid-snake.svg" />
-</picture>
+<img src="https://img.shields.io/badge/Snake%20Animation-Workflow%20Setup%20Required-7C3AED?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=0B1020" alt="Snake Setup Required" />
 
-<br/>
+<br/><br/>
 
-<img src="https://img.shields.io/badge/Snake%20Animation-Run%20workflow%20once%20if%20not%20visible-7C3AED?style=flat-square&labelColor=0B1020" alt="Snake Workflow Note" />
+The contribution snake will appear after the GitHub Actions workflow generates SVG files into the `output` branch.
 
 </div>
 
@@ -624,29 +504,31 @@ Built five years of practical electronics, computer hardware, troubleshooting, a
 
 ```yaml
 Learning:
-  - Advanced full stack architecture
-  - AI agent systems and LLM orchestration
-  - Cloud deployment with Supabase, Vercel, and Docker
-  - Embedded systems, avionics electronics, and RF workflows
+  - Stronger software engineering fundamentals
+  - Advanced JavaScript and web application structure
+  - Python automation and practical tools
+  - Embedded systems with Arduino and ESP32
+  - PCB design, repair workflows, and RF systems
 
 Building:
-  - GhostShield AI Technologies project portfolio
-  - Enterprise ERP and client management systems
-  - AI workspace and automation platforms
-  - Embedded avionics demonstration projects
+  - Personal GitHub engineering portfolio
+  - Project documentation for avionics and hardware builds
+  - Browser-based simulators and small business software
+  - Embedded educational demonstration systems
 
-Exploring:
-  - Local-first AI tools
-  - Secure software engineering workflows
-  - Simulation systems and technical visualization
-  - Product-grade documentation and technical branding
+Improving:
+  - Clean code structure
+  - Technical writing and documentation
+  - UI presentation quality
+  - Debugging discipline
+  - Version control workflow
 
 Open_To:
-  - Software engineering roles
-  - AI engineering projects
-  - Full stack web applications
-  - Embedded and avionics-related technical work
-  - Freelance product development
+  - Electronics and avionics support roles
+  - Junior software development opportunities
+  - Embedded systems projects
+  - Technical documentation work
+  - Freelance design and business software projects
 ```
 
 ---
@@ -677,8 +559,6 @@ Open_To:
 
 <div align="center">
 
-### Engineering is not only about writing code; it is about building systems that survive real use.
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,45:312E81,100:070A13&height=140&section=footer" alt="Footer" />
+### Practical engineering begins where theory meets wiring, code, testing, and documentation.
 
 </div>
