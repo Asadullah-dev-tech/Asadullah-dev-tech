@@ -105,34 +105,24 @@ Open_To:
 
 <div align="center">
 
-### Programming
+### Languages
 
-<img src="https://img.shields.io/badge/Python-0B1020?style=for-the-badge&logo=python&logoColor=7C3AED" />
-<img src="https://img.shields.io/badge/C%2B%2B-0B1020?style=for-the-badge&logo=cplusplus&logoColor=8B5CF6" />
-<img src="https://img.shields.io/badge/Qt-0B1020?style=for-the-badge&logo=qt&logoColor=A855F7" />
-<img src="https://img.shields.io/badge/HTML5-0B1020?style=for-the-badge&logo=html5&logoColor=6366F1" />
-<img src="https://img.shields.io/badge/CSS3-0B1020?style=for-the-badge&logo=css3&logoColor=3B82F6" />
-<img src="https://img.shields.io/badge/JavaScript-0B1020?style=for-the-badge&logo=javascript&logoColor=C084FC" />
+<img src="https://skillicons.dev/icons?i=py,cpp,c,js,ts,html,css" />
 
-### Hardware & Embedded
+### Frontend
 
-<img src="https://img.shields.io/badge/Arduino-0B1020?style=for-the-badge&logo=arduino&logoColor=7C3AED" />
-<img src="https://img.shields.io/badge/ESP32-0B1020?style=for-the-badge&logo=espressif&logoColor=8B5CF6" />
-<img src="https://img.shields.io/badge/KiCad-0B1020?style=for-the-badge&logo=kicad&logoColor=A855F7" />
-<img src="https://img.shields.io/badge/EasyEDA-0B1020?style=for-the-badge&logoColor=6366F1" />
-<img src="https://img.shields.io/badge/PCB%20Repair-0B1020?style=for-the-badge&logoColor=3B82F6" />
-<img src="https://img.shields.io/badge/RF%20Systems-0B1020?style=for-the-badge&logoColor=C084FC" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,bootstrap,figma" />
 
-### Tools
+### Backend & Databases
 
-<img src="https://img.shields.io/badge/GitHub-0B1020?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Google%20Colab-0B1020?style=for-the-badge&logo=googlecolab&logoColor=7C3AED" />
-<img src="https://img.shields.io/badge/MS%20Office-0B1020?style=for-the-badge&logo=microsoftoffice&logoColor=8B5CF6" />
-<img src="https://img.shields.io/badge/Photoshop-0B1020?style=for-the-badge&logo=adobephotoshop&logoColor=A855F7" />
-<img src="https://img.shields.io/badge/Illustrator-0B1020?style=for-the-badge&logo=adobeillustrator&logoColor=6366F1" />
-<img src="https://img.shields.io/badge/CorelDRAW-0B1020?style=for-the-badge&logoColor=3B82F6" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,supabase,postgres,mongodb,firebase" />
+
+### Cloud, DevOps & Tooling
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,linux,bash,vscode,arduino" />
 
 </div>
+
 
 ---
 
