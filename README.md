@@ -1,36 +1,36 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,40:312E81,70:6D28D9,100:8B5CF6&height=230&section=header&text=ASADULLAH&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%20Engineer%20%7C%20Avionics%20%26%20Electronics%20Technician&descAlignY=56&descSize=17" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:070A13,35:312E81,70:6D28D9,100:A855F7&height=240&section=header&text=ASADULLAH&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%20Engineer%20%7C%20Avionics%20%26%20Electronics%20Technician&descAlignY=56&descSize=17" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=650&color=A855F7&center=true&vCenter=true&width=980&lines=Enterprise+Software+Engineering;AI+%2F+ML+Systems+%26+Automation;Full+Stack+Product+Development;Avionics+%26+Embedded+Systems;Premium+Engineering+Portfolio" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=700&color=A855F7&center=true&vCenter=true&width=980&lines=Enterprise+Software+Engineering;AI+%2F+ML+Systems+%26+Automation;Full+Stack+Product+Engineering;Avionics+%26+Embedded+Systems;Premium+Engineering+Portfolio" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/AMSC%20NASTP-Avionics%20Life%20Cycle%20Support-7C3AED?style=flat-square&labelColor=0B1020" />
-<img src="https://img.shields.io/badge/PAC%20Kamra-JF--17%20Thunder%20Block%20III-6366F1?style=flat-square&labelColor=0B1020" />
-<img src="https://img.shields.io/badge/Focus-AI%20%7C%20Software%20%7C%20Avionics-8B5CF6?style=flat-square&labelColor=0B1020" />
-<img src="https://img.shields.io/badge/Location-Attock%2C%20Punjab%2C%20Pakistan-3B82F6?style=flat-square&labelColor=0B1020" />
+<img src="https://img.shields.io/badge/AMSC%20NASTP-Avionics%20Life%20Cycle%20Support-7C3AED?style=flat-square&labelColor=0B1020" alt="AMSC NASTP Badge" />
+<img src="https://img.shields.io/badge/PAC%20Kamra-JF--17%20Thunder%20Block%20III-6366F1?style=flat-square&labelColor=0B1020" alt="PAC Kamra Badge" />
+<img src="https://img.shields.io/badge/Computer%20Science-Software%20Engineering-8B5CF6?style=flat-square&labelColor=0B1020" alt="Computer Science Badge" />
+<img src="https://img.shields.io/badge/Location-Attock%2C%20Punjab%2C%20Pakistan-3B82F6?style=flat-square&labelColor=0B1020" alt="Location Badge" />
 
 <br/><br/>
 
 <a href="https://ghostshield-ai-technologies.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-GhostShield%20AI%20Technologies-7C3AED?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0B1020" />
+  <img src="https://img.shields.io/badge/Portfolio-GhostShield%20AI%20Technologies-7C3AED?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0B1020" alt="Portfolio" />
 </a>
 <a href="https://www.linkedin.com/in/asadullah-dev-tech">
-  <img src="https://img.shields.io/badge/LinkedIn-Asadullah-6366F1?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B1020" />
+  <img src="https://img.shields.io/badge/LinkedIn-Asadullah-6366F1?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B1020" alt="LinkedIn" />
 </a>
 <a href="mailto:work.venomvincint@gmail.com">
-  <img src="https://img.shields.io/badge/Email-work.venomvincint%40gmail.com-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B1020" />
+  <img src="https://img.shields.io/badge/Email-work.venomvincint%40gmail.com-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B1020" alt="Email" />
 </a>
 <a href="https://github.com/Asadullah-dev-tech">
-  <img src="https://img.shields.io/badge/GitHub-Asadullah--dev--tech-A855F7?style=for-the-badge&logo=github&logoColor=white&labelColor=0B1020" />
+  <img src="https://img.shields.io/badge/GitHub-Asadullah--dev--tech-A855F7?style=for-the-badge&logo=github&logoColor=white&labelColor=0B1020" alt="GitHub" />
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Asadullah-dev-tech&style=for-the-badge&color=7C3AED&label=PROFILE%20VIEWS" />
-<img src="https://img.shields.io/github/followers/Asadullah-dev-tech?style=for-the-badge&logo=github&label=Followers&color=6366F1&labelColor=0B1020" />
-<img src="https://img.shields.io/github/stars/Asadullah-dev-tech?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&label=Stars&color=8B5CF6&labelColor=0B1020" />
+<img src="https://komarev.com/ghpvc/?username=Asadullah-dev-tech&style=for-the-badge&color=7C3AED&label=PROFILE%20VIEWS" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/Asadullah-dev-tech?style=for-the-badge&logo=github&label=Followers&color=6366F1&labelColor=0B1020" alt="Followers" />
+<img src="https://img.shields.io/github/stars/Asadullah-dev-tech?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&label=Stars&color=8B5CF6&labelColor=0B1020" alt="Stars" />
 
 </div>
 
@@ -38,17 +38,17 @@
 
 ## About
 
-I am **Asadullah**, a software-focused engineering professional working across **full stack development, AI-assisted product engineering, embedded systems, avionics electronics, automation, and technical documentation**.
+I am **Asadullah**, a software-focused engineering professional working across **full stack development, AI-assisted product engineering, embedded systems, avionics electronics, automation, cybersecurity fundamentals, and technical documentation**.
 
-My engineering background combines hands-on aerospace exposure from **PAC Kamra / AMSC NASTP**, PCB repair and RF systems work, embedded hardware development, and real-world software projects built with **Python, C++, Qt, JavaScript, HTML, CSS, Supabase, Vercel, Arduino, ESP32, and modern AI workflows**.
+My background combines aerospace exposure from **PAC Kamra / AMSC NASTP**, avionics life-cycle support, PCB repair, RF cable manufacturing, embedded hardware development, and real-world software projects built with **Python, C++, Qt, JavaScript, HTML, CSS, Supabase, Vercel, Arduino, ESP32, and modern AI workflows**.
 
-I focus on building systems that are not only functional, but also **structured, scalable, secure, maintainable, and presentation-ready**. My work connects software engineering with product thinking: clean architecture, practical UX, reliable deployment, strong documentation, and measurable business impact.
+I focus on building systems that are not only functional, but also **structured, scalable, secure, maintainable, and presentation-ready**. My engineering style connects software architecture with product thinking: clean data models, practical UX, reliable deployment, business impact, and strong documentation.
 
 **Open To**
 
 | Role Type | Focus Area |
 |---|---|
-| Software Engineering | Full stack apps, dashboards, automation systems, internal tools |
+| Software Engineering | Full stack applications, dashboards, automation systems, internal tools |
 | AI Engineering | AI agents, LLM workflows, automation platforms, prompt systems |
 | Embedded / Avionics | Arduino, ESP32, electronics diagnostics, simulation systems |
 | Product Engineering | SaaS MVPs, ERP systems, business platforms, technical products |
@@ -62,19 +62,19 @@ I focus on building systems that are not only functional, but also **structured,
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=py,cpp,c,js,ts,html,css" />
+<img src="https://skillicons.dev/icons?i=py,cpp,c,js,ts,html,css" alt="Languages" />
 
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,bootstrap,figma" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,bootstrap,figma" alt="Frontend" />
 
 ### Backend & Databases
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,supabase,postgres,mongodb,firebase" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,supabase,postgres,mongodb,firebase" alt="Backend and Databases" />
 
 ### Cloud, DevOps & Tooling
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,linux,bash,vscode,arduino" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,linux,bash,vscode,arduino" alt="Cloud DevOps Tooling" />
 
 </div>
 
@@ -88,10 +88,10 @@ I focus on building systems that are not only functional, but also **structured,
 | LLM Product Engineering | Advanced | Designs assistant-style systems, structured prompts, AI workspaces, automation flows, and context-aware tools |
 | AI Agents & Automation | Applied | Builds agent concepts for task execution, business automation, dashboards, server tools, and productivity systems |
 | Prompt Engineering | Advanced | Creates structured prompt systems for coding, documentation, research, workflows, and product generation |
-| Machine Learning Foundations | Intermediate | Covers supervised learning concepts, AI/ML basics, model workflow awareness, and practical integration patterns |
-| Computer Vision Concepts | Applied | Works with simulation and detection concepts in educational avionics and defense-style visual systems |
-| Embedded Intelligence | Applied | Connects Arduino, ESP32, sensors, displays, RF modules, and control logic for interactive engineering demos |
-| AI Product Documentation | Advanced | Produces PRDs, TRDs, app flows, implementation plans, backend schemas, and investor-style technical briefs |
+| Machine Learning Foundations | Intermediate | Covers supervised learning concepts, model workflow awareness, AI/ML basics, and practical integration patterns |
+| Computer Vision Concepts | Applied | Works with simulation, detection, and tactical visualization concepts for educational engineering systems |
+| Embedded Intelligence | Applied | Connects Arduino, ESP32, sensors, displays, RF modules, and control logic for interactive technical demos |
+| AI Product Documentation | Advanced | Produces PRDs, TRDs, app flows, implementation plans, backend schemas, and technical briefs |
 
 ---
 
@@ -153,7 +153,7 @@ AI agent platform concept focused on task automation, command workflows, structu
 | Impact | Turns AI from a chat tool into a structured automation and execution layer |
 | Repository | [ghostclaw-ai-agent-platform](https://github.com/ghostshieldaitech/ghostclaw-ai-agent-platform) |
 
-Designed for advanced AI workflows where agents can plan, reason, route tasks, and assist with engineering delivery.
+Designed for advanced AI workflows where agents can plan, route tasks, assist with engineering delivery, and connect tools into structured workflows.
 
 </details>
 
@@ -162,7 +162,7 @@ Designed for advanced AI workflows where agents can plan, reason, route tasks, a
 
 <br/>
 
-A premium AI workspace concept covering local-first AI tools, cloud model routing, prompt systems, task boards, multi-provider orchestration, and productivity dashboards.
+Premium AI workspace concept covering local-first AI tools, cloud model routing, prompt systems, task boards, multi-provider orchestration, and productivity dashboards.
 
 | Metric | Detail |
 |---|---|
@@ -213,7 +213,7 @@ Non-functional educational simulator demonstrating target detection logic, threa
 | Impact | Demonstrates detection, assessment, decision, and visual response logic for avionics learning |
 | Repository | [iron-dome-educational-simulator](https://github.com/ghostshieldaitech/iron-dome-educational-simulator) |
 
-The project is framed strictly as a non-weapon educational engineering demonstration focused on systems thinking, RF links, sensor fusion concepts, display feedback, and decision logic.
+The project is framed strictly as a non-weapon educational engineering demonstration focused on systems thinking, RF links, sensor concepts, display feedback, and decision logic.
 
 </details>
 
@@ -222,7 +222,7 @@ The project is framed strictly as a non-weapon educational engineering demonstra
 
 <br/>
 
-Capstone drone project covering custom frame design, electronics integration, flight controller setup, wiring harness work, calibration, and pre-flight testing.
+Capstone drone project covering custom frame design, electronics integration, flight controller setup, wiring harness work, calibration, failsafe setup, and pre-flight testing.
 
 | Metric | Detail |
 |---|---|
@@ -242,7 +242,7 @@ This project highlights practical avionics integration, embedded hardware handli
 
 <br/>
 
-Dual-Arduino aviation-style navigation light controller with heartbeat monitoring, standby takeover, fault detection, relay/transistor logic, and redundancy validation.
+Dual-Arduino aviation-style navigation light controller with heartbeat monitoring, standby takeover, fault detection, relay/transistor logic, PCB assembly, voltage regulation, and redundancy validation.
 
 | Metric | Detail |
 |---|---|
@@ -262,7 +262,7 @@ Built to show how redundancy and automatic fallback can improve reliability in s
 
 <br/>
 
-Foam-board RC aircraft project covering airframe build, motor/ESC integration, servo setup, control surface tuning, center-of-gravity balancing, and ground/flight testing.
+Foam-board RC aircraft project covering airframe build, motor/ESC integration, servo setup, control surface tuning, center-of-gravity balancing, ground testing, and maiden flight preparation.
 
 | Metric | Detail |
 |---|---|
@@ -516,30 +516,30 @@ Built five years of practical electronics, computer hardware, troubleshooting, a
 
 ### AWS
 
-<img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner%20Learning%20Track-7C3AED?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=0B1020" />
-<img src="https://img.shields.io/badge/AWS-Cloud%20Architecture%20Foundations-6366F1?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=0B1020" />
+<img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner%20Learning%20Track-7C3AED?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=0B1020" alt="AWS Cloud Practitioner" />
+<img src="https://img.shields.io/badge/AWS-Cloud%20Architecture%20Foundations-6366F1?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=0B1020" alt="AWS Cloud Architecture" />
 
 ### Oracle
 
-<img src="https://img.shields.io/badge/Oracle-Database%20Foundations-8B5CF6?style=for-the-badge&logo=oracle&logoColor=white&labelColor=0B1020" />
-<img src="https://img.shields.io/badge/Oracle-Cloud%20Foundations-A855F7?style=for-the-badge&logo=oracle&logoColor=white&labelColor=0B1020" />
+<img src="https://img.shields.io/badge/Oracle-Database%20Foundations-8B5CF6?style=for-the-badge&logo=oracle&logoColor=white&labelColor=0B1020" alt="Oracle Database Foundations" />
+<img src="https://img.shields.io/badge/Oracle-Cloud%20Foundations-A855F7?style=for-the-badge&logo=oracle&logoColor=white&labelColor=0B1020" alt="Oracle Cloud Foundations" />
 
 ### NPTEL
 
-<img src="https://img.shields.io/badge/NPTEL-Programming%20%26%20Problem%20Solving-6366F1?style=for-the-badge&labelColor=0B1020" />
-<img src="https://img.shields.io/badge/NPTEL-Data%20Structures%20Foundations-7C3AED?style=for-the-badge&labelColor=0B1020" />
+<img src="https://img.shields.io/badge/NPTEL-Programming%20%26%20Problem%20Solving-6366F1?style=for-the-badge&labelColor=0B1020" alt="NPTEL Programming" />
+<img src="https://img.shields.io/badge/NPTEL-Data%20Structures%20Foundations-7C3AED?style=for-the-badge&labelColor=0B1020" alt="NPTEL Data Structures" />
 
 ### Cisco
 
-<img src="https://img.shields.io/badge/Cisco-Networking%20Foundations-3B82F6?style=for-the-badge&logo=cisco&logoColor=white&labelColor=0B1020" />
-<img src="https://img.shields.io/badge/Cisco-Cybersecurity%20Foundations-8B5CF6?style=for-the-badge&logo=cisco&logoColor=white&labelColor=0B1020" />
+<img src="https://img.shields.io/badge/Cisco-Networking%20Foundations-3B82F6?style=for-the-badge&logo=cisco&logoColor=white&labelColor=0B1020" alt="Cisco Networking" />
+<img src="https://img.shields.io/badge/Cisco-Cybersecurity%20Foundations-8B5CF6?style=for-the-badge&logo=cisco&logoColor=white&labelColor=0B1020" alt="Cisco Cybersecurity" />
 
 ### Additional Training
 
-<img src="https://img.shields.io/badge/Microsoft-AI%20%26%20Machine%20Learning-6366F1?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=0B1020" />
-<img src="https://img.shields.io/badge/Microsoft-Basic%20Cybersecurity%20%26%20Ethical%20Hacking-7C3AED?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=0B1020" />
-<img src="https://img.shields.io/badge/Udemy-Cyber%20Security%20%26%20Ethical%20Hacking-A855F7?style=for-the-badge&logo=udemy&logoColor=white&labelColor=0B1020" />
-<img src="https://img.shields.io/badge/NAVTTC%20%26%20NUTECH-Graphic%20Designing-3B82F6?style=for-the-badge&labelColor=0B1020" />
+<img src="https://img.shields.io/badge/Microsoft-AI%20%26%20Machine%20Learning-6366F1?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=0B1020" alt="Microsoft AI ML" />
+<img src="https://img.shields.io/badge/Microsoft-Basic%20Cybersecurity%20%26%20Ethical%20Hacking-7C3AED?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=0B1020" alt="Microsoft Cybersecurity" />
+<img src="https://img.shields.io/badge/Udemy-Cyber%20Security%20%26%20Ethical%20Hacking-A855F7?style=for-the-badge&logo=udemy&logoColor=white&labelColor=0B1020" alt="Udemy Cybersecurity" />
+<img src="https://img.shields.io/badge/NAVTTC%20%26%20NUTECH-Graphic%20Designing-3B82F6?style=for-the-badge&labelColor=0B1020" alt="Graphic Designing" />
 
 ---
 
@@ -548,16 +548,16 @@ Built five years of practical electronics, computer hardware, troubleshooting, a
 <div align="center">
 
 <a href="https://leetcode.com/u/Asadullah-dev-tech/">
-  <img src="https://img.shields.io/badge/LeetCode-Asadullah--dev--tech-7C3AED?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0B1020" />
+  <img src="https://img.shields.io/badge/LeetCode-Asadullah--dev--tech-7C3AED?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0B1020" alt="LeetCode" />
 </a>
 <a href="https://www.geeksforgeeks.org/user/asadullahdevtech/">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-Asadullah-6366F1?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=0B1020" />
+  <img src="https://img.shields.io/badge/GeeksforGeeks-Asadullah-6366F1?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=0B1020" alt="GeeksforGeeks" />
 </a>
 <a href="https://www.hackerrank.com/profile/Asadullah-dev-tech">
-  <img src="https://img.shields.io/badge/HackerRank-Asadullah-8B5CF6?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=0B1020" />
+  <img src="https://img.shields.io/badge/HackerRank-Asadullah-8B5CF6?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=0B1020" alt="HackerRank" />
 </a>
 <a href="https://www.codechef.com/users/asadullahdevtech">
-  <img src="https://img.shields.io/badge/CodeChef-Asadullah-A855F7?style=for-the-badge&logo=codechef&logoColor=white&labelColor=0B1020" />
+  <img src="https://img.shields.io/badge/CodeChef-Asadullah-A855F7?style=for-the-badge&logo=codechef&logoColor=white&labelColor=0B1020" alt="CodeChef" />
 </a>
 
 </div>
@@ -568,12 +568,12 @@ Built five years of practical electronics, computer hardware, troubleshooting, a
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Asadullah-dev-tech&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=8B5CF6&text_color=C9D1D9" />
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Asadullah-dev-tech&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=8B5CF6&currStreakLabel=C084FC&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Asadullah-dev-tech&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=8B5CF6&text_color=C9D1D9" alt="GitHub Stats" />
+<img height="180" src="https://streak-stats.demolab.com?user=Asadullah-dev-tech&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=8B5CF6&currStreakLabel=C084FC&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak" />
 
 <br/>
 
-<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asadullah-dev-tech&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9&langs_count=10" />
+<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asadullah-dev-tech&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9&langs_count=10" alt="Top Languages" />
 
 </div>
 
@@ -583,7 +583,9 @@ Built five years of practical electronics, computer hardware, troubleshooting, a
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Asadullah-dev-tech&theme=discord&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" />
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Asadullah-dev-tech&theme=radical&no-frame=true&no-bg=true&margin-w=10&margin-h=10&row=2&column=4" alt="GitHub Trophies" />
+</a>
 
 </div>
 
@@ -593,7 +595,7 @@ Built five years of practical electronics, computer hardware, troubleshooting, a
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Asadullah-dev-tech&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C4B5FD&area=true&area_color=7C3AED" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Asadullah-dev-tech&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C4B5FD&area=true&area_color=7C3AED&custom_title=Asadullah%27s%20Contribution%20Graph" alt="Contribution Activity Graph" />
 
 </div>
 
@@ -603,7 +605,15 @@ Built five years of practical electronics, computer hardware, troubleshooting, a
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/Asadullah-dev-tech/Asadullah-dev-tech/output/github-contribution-grid-snake-dark.svg" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Asadullah-dev-tech/Asadullah-dev-tech/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Asadullah-dev-tech/Asadullah-dev-tech/output/github-contribution-grid-snake.svg" />
+  <img width="100%" alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/Asadullah-dev-tech/Asadullah-dev-tech/output/github-contribution-grid-snake.svg" />
+</picture>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Snake%20Animation-Run%20workflow%20once%20if%20not%20visible-7C3AED?style=flat-square&labelColor=0B1020" alt="Snake Workflow Note" />
 
 </div>
 
@@ -645,19 +655,19 @@ Open_To:
 <div align="center">
 
 <a href="mailto:work.venomvincint@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-work.venomvincint%40gmail.com-7C3AED?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B1020" />
+  <img src="https://img.shields.io/badge/Gmail-work.venomvincint%40gmail.com-7C3AED?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B1020" alt="Gmail" />
 </a>
 <a href="https://www.linkedin.com/in/asadullah-dev-tech">
-  <img src="https://img.shields.io/badge/LinkedIn-Asadullah-6366F1?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B1020" />
+  <img src="https://img.shields.io/badge/LinkedIn-Asadullah-6366F1?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B1020" alt="LinkedIn" />
 </a>
 <a href="https://github.com/Asadullah-dev-tech">
-  <img src="https://img.shields.io/badge/GitHub-Asadullah--dev--tech-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=0B1020" />
+  <img src="https://img.shields.io/badge/GitHub-Asadullah--dev--tech-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=0B1020" alt="GitHub" />
 </a>
 <a href="https://github.com/ghostshieldaitech">
-  <img src="https://img.shields.io/badge/Projects-ghostshieldaitech-A855F7?style=for-the-badge&logo=github&logoColor=white&labelColor=0B1020" />
+  <img src="https://img.shields.io/badge/Projects-ghostshieldaitech-A855F7?style=for-the-badge&logo=github&logoColor=white&labelColor=0B1020" alt="Project Account" />
 </a>
 <a href="https://ghostshield-ai-technologies.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-GhostShield%20AI%20Technologies-3B82F6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0B1020" />
+  <img src="https://img.shields.io/badge/Portfolio-GhostShield%20AI%20Technologies-3B82F6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0B1020" alt="Portfolio" />
 </a>
 
 </div>
@@ -668,6 +678,6 @@ Open_To:
 
 ### Engineering is not only about writing code; it is about building systems that survive real use.
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,45:312E81,100:0B1020&height=140&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,45:312E81,100:070A13&height=140&section=footer" alt="Footer" />
 
 </div>
