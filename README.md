@@ -34,8 +34,8 @@
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=Asadullah-dev-tech&style=for-the-badge&color=7C3AED&label=PROFILE%20VIEWS" />
-<img src="https://img.shields.io/github/followers/Asadullah-dev-tech?style=for-the-badge&logo=github&label=Followers&color=6366F1&labelColor=0B1020" />
-<img src="https://img.shields.io/github/stars/Asadullah-dev-tech?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&label=Stars&color=8B5CF6&labelColor=0B1020" />
+<img src="https://img.shields.io/github/followers/ghsotshieldaitech?style=for-the-badge&logo=github&label=Followers&color=6366F1&labelColor=0B1020" />
+<img src="https://img.shields.io/github/stars/ghsotshieldaitech?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&label=Stars&color=8B5CF6&labelColor=0B1020" />
 
 </div>
 
@@ -404,12 +404,12 @@ Five years of practical computer hardware, repair, troubleshooting, and electron
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Asadullah-dev-tech&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=8B5CF6&text_color=C9D1D9" alt="GitHub Stats" />
-<img height="180" src="https://streak-stats.demolab.com?user=Asadullah-dev-tech&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=8B5CF6&currStreakLabel=C084FC&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=ghostshieldaitech&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=8B5CF6&text_color=C9D1D9" alt="GitHub Stats" />
+<img height="180" src="https://streak-stats.demolab.com?user=ghostshieldaitech&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=8B5CF6&currStreakLabel=C084FC&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak" />
 
 <br/>
 
-<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asadullah-dev-tech&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
+<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghostshieldaitech&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
 
 </div>
 
@@ -419,7 +419,7 @@ Five years of practical computer hardware, repair, troubleshooting, and electron
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Asadullah-dev-tech&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C4B5FD&area=true&area_color=7C3AED&custom_title=Asadullah%27s%20Contribution%20Graph" alt="Contribution Activity Graph" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ghostshieldaitech&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C4B5FD&area=true&area_color=7C3AED&custom_title=Asadullah%27s%20Contribution%20Graph" alt="Contribution Activity Graph" />
 
 </div>
 
